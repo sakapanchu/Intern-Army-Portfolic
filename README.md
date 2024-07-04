@@ -36,3 +36,5 @@ Navigate into the project directory:
 
 1. Open index.html in your web browser to view the portfolio.
 2. Navigate through different sections (About Me, Projects,Skills,Services, Contact,Education) using the navigation bar.
+
+### My site is live at https://sakapanchu.github.io/Intern-Army-Portfolic/
